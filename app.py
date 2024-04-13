@@ -20,7 +20,7 @@ df_all = pd.read_excel(
     usecols='a:i',
     nrows = 1500,
 )
-
+# https://stackoverflow.com/questions/21609781/why-call-git-branch-unset-upstream-to-fixup
 
 # 컬럼명 chekc
 print(df_all.columns.tolist()) 
