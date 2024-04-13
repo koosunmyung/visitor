@@ -3,7 +3,7 @@ import pandas as pd
 # import plotly
 # from plotly import plotly.express as px
 # import plotly.express as px
-# import plotly.express as px
+import plotly.express as px
 # from datetime import datetime
 # import io
 # from io import BytesIO
